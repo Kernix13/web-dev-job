@@ -6,6 +6,9 @@
 
 1. General
 1. Portfolio exampless
+   1. Really Good
+   1. Good to Okay
+   1. Features I like
 1. Articles
 1. Skills
 
@@ -103,18 +106,59 @@ These are the best ones IMO
 
 ## Articles
 
+Portfolio Tips:
+
+1. [How To Make Your Front-end Developer Portfolio Stand Out](https://www.codecademy.com/resources/blog/how-to-make-your-front-end-developer-portfolio-stand-out/)
+
+The ideal portfolio should include several items:
+
+- Begin with a custom logo
+- Add a tagline to highlight specific information
+- Polish your design
+- Include relevant skills, education, and work history
+- Add a downloadable resume
+- Add your bio in an "About" page
+- Include a photo
+- Make your contact information easy to find
+- Add social media accounts
+- List your specialties and services
+- Include testimonials and awards
+- Include relevant projects
+
+> Great article
+
+2. [Web Developer Portfolio Inspiration](https://codingcareerfastlane.com/first-web-development-portfolio-projects/)
+
+There are five aspects of creating a junior web developer portfolio that we focus on in this article:
+
+- Finding good projects to include in a portfolio
+- Telling the story behind the examples that you include in your portfolio
+- Development examples you shouldn’t add to your portfolio
+- Things to avoid when building your own web developer portfolio
+- Creative design tips for a good web developer portfolio
+
+The rest of the article is good!
+
+3. [Dev Portfolios: How to Stand Out From the Crowd](https://betterprogramming.pub/dev-portfolios-how-to-stand-out-from-the-crowd-4a5d990b3400)
+
+Ehh, it's worth a read...
+
+4. [How to build a developer portfolio with no prior work experience](https://blog.devgenius.io/how-to-build-a-developer-portfolio-with-no-prior-work-experience-6af7f21774d6)
+
+Some basic tips - worth checking out.
+
+5. [What to put on your portfolio website](https://learntocodewith.me/posts/portfolio-tips/)
+
+28 things to put on your developer portfolio (28?) - check it out.
+
+6. [How to Be Taken Seriously as a New Developer](https://www.freecodecamp.org/news/how-to-build-credibility-as-a-new-developer/)
+
+Good tips from freeCodecamp in this article - definitely read it.
+
+These articles are the sources for the portfolios above.
+
 - [15 Web Developer Portfolios to Inspire You](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/)
 - [10 Amazing Web Developer Portfolios To Inspire You](https://junocollege.com/blog/10-amazing-web-developer-portfolios-to-inspire-you)
-- [How To Make Your Front-end Developer Portfolio Stand Out](https://www.codecademy.com/resources/blog/how-to-make-your-front-end-developer-portfolio-stand-out/)
-- [What Does a Front-End Developer Do](https://www.codecademy.com/resources/blog/what-does-a-front-end-developer-do/)
-- [Reddit feedback](https://www.reddit.com/r/webdev/comments/kowrqk/junior_web_dev_created_my_portfolio_and_would/)
-- [Web Developer Portfolio Inspiration](https://codingcareerfastlane.com/first-web-development-portfolio-projects/)
-- [Dev Portfolios: How to Stand Out From the Crowd](https://betterprogramming.pub/dev-portfolios-how-to-stand-out-from-the-crowd-4a5d990b3400)
-- [How to build a developer portfolio with no prior work experience](https://blog.devgenius.io/how-to-build-a-developer-portfolio-with-no-prior-work-experience-6af7f21774d6)
-- [5 Portfolio Tips For Junior Developers](https://dev.to/tiaeastwood/5-portfolio-tips-for-junior-developers-2fgc)
-- [What to put on your portfolio website](https://learntocodewith.me/posts/portfolio-tips/)
-- [Building an effective dev portfolio](https://storage.googleapis.com/joshwcomeau/building-an-effective-dev-portfolio.pdf)
-- [How to Be Taken Seriously as a New Developer](https://www.freecodecamp.org/news/how-to-build-credibility-as-a-new-developer/)
 
 ## Skills
 

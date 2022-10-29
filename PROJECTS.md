@@ -6,22 +6,13 @@ This file is closely related to PORTFOLIO.md.
 
 ## Table of contents
 
-1. [Articles](#articles)
 1. [Simple Ideas](#simple-ideas)
 1. [CRUD Ideas](#crud-ideas)
 1. [API Ideas](#api-ideas)
 1. [CSS Ideas](#css-ideas)
 1. [Intermediate JS Ideas](#intermediate-js-ideas)
 1. [Advanced JS Ideas JS Ideas](#advanced-js-ideas)
-
-## Articles
-
-1. [5 Coding Projects You Should Include in Your Front End Portfolio](https://www.freecodecamp.org/news/coding-projects-to-include-in-your-frontend-portfolio/)
-1. [freeCodeCamp forum post](https://forum.freecodecamp.org/t/need-opinions-to-improve-my-portfolio-and-resume/445916/2)
-1. [Improve your front-end coding skills by building real projects](https://www.frontendmentor.io/)
-1. [17 Web Apps You Can Build To Level Up Your Coding Skills](https://codewithhugo.com/coding-web-app-ideas/)
-
-<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+1. [Articles](#articles)
 
 ## Simple Ideas
 
@@ -88,5 +79,16 @@ Incorporate these into the other projects
 - review app like imdb
 - e-Commerce shopping cart
 - interactive behavior to web pages...(???)
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
+## Articles
+
+These articles were the sources for all the ideas above.
+
+1. [5 Coding Projects You Should Include in Your Front End Portfolio](https://www.freecodecamp.org/news/coding-projects-to-include-in-your-frontend-portfolio/)
+1. [freeCodeCamp forum post](https://forum.freecodecamp.org/t/need-opinions-to-improve-my-portfolio-and-resume/445916/2)
+1. [Improve your front-end coding skills by building real projects](https://www.frontendmentor.io/)
+1. [17 Web Apps You Can Build To Level Up Your Coding Skills](https://codewithhugo.com/coding-web-app-ideas/)
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
