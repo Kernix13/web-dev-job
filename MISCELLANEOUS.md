@@ -28,8 +28,7 @@ Other blog topics:
 
 ## Really random stuff
 
--[GitHub Public APIs repo](https://github.com/public-apis/public-apis): I have all thse links in my `fetch-apis` repository
-
+- [GitHub Public APIs repo](https://github.com/public-apis/public-apis): I have all thse links in my `fetch-apis` repository
 - [My freeCodeCamp post: What do I need to do to get ANY kind of Web Design job?](https://forum.freecodecamp.org/t/what-do-i-need-to-do-to-get-any-kind-of-web-design-job/469146/15)
 
 FLEXJOBS TESTS:

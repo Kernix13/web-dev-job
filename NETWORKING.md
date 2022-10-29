@@ -1,5 +1,7 @@
 # Networking Notes
 
+I like organic networking on Twitter, but the JOB_BOARDS.md file or the networking examples I did on LinkedIn.
+
 <div id="back-to-top"></div>
 
 ## Table of contents
