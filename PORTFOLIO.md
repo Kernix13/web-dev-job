@@ -4,13 +4,13 @@
 
 ## Table of contents
 
-1. General
-1. Portfolio exampless
-   1. Really Good
-   1. Good to Okay
-   1. Features I like
-1. Articles
-1. Skills
+1. [General](#general)
+1. [Portfolio exampless](#portfolio-exampless)
+   1. [Really Good](#really-good)
+   1. [Good to Okay](#good-to-okay)
+   1. [Features I like](#features-i-like)
+1. [Articles](#articles)
+1. [Skills](#skills)
 
 ## General
 
