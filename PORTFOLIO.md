@@ -1,5 +1,9 @@
 # Portfolio Notes
 
+<div id="back-to-top"></div>
+
+## Table of contents
+
 1. General
 1. Portfolio exampless
 1. Articles
@@ -19,8 +23,6 @@
 - **contribute to open source**: - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 - **custom wp themes or plugins & blog about it**
 
-junior web developer portfolios: so have a single page with 3 projects linked then pages for the projects
-
 Questions to Ask When Creating A Web Developer Portfolio:
 
 1. Does your copy contain too many words?
@@ -33,37 +35,71 @@ Questions to Ask When Creating A Web Developer Portfolio:
 
 ## Portfolio exampless
 
-Really Good:
+The following portfolios are my choices for the best overall or have features, design or projects I really like.
 
-- [DOUGLAS LERNER](https://douglasdev.github.io/): Great everything!
-  - Projects:
-- [Julia Codes](https://www.juliacodes.com/): Great everything!
-  - Projects:
-- [Brittany Chiang](https://brittanychiang.com/): Great everything!
-  - Projects:
-- [Kay Stocks](https://www.kaystocks.com/): Great design
-  - Projects:
-- [DAVID SUMNER](https://davidsumner.co.uk/): All looks really good
+### Really Good
 
-Okay:
+These are the best ones IMO
 
-- [Batuhan Doruk](https://calmeart.github.io/): dark theme, interesting design, very simple and short
-  - Projects:
-- [Jesse Delia](https://jdeliaportfolio.netlify.app/): very simple and short
-  - Projects:
-- [Knight Designs](https://www.knightdesigns.net/): nice design, 6 projects, Google maps error
-  - Projects:
-- [Man Parvesh Singh Randhawa](https://manparvesh.com/): nice overall design
-  - Projects:
+1. [Julia Codes](https://www.juliacodes.com/): Great everything!
 
-Good Features:
+**Projects**: 2 of them require passwords, and the other has a very detailed page but no links to a Live version or the associated GitHub repo???
 
-- [My FCC Portfolio Project](https://codepen.io/jim-kernicky/pen/wvdaRBX): the social links CSS is nice
-- [Alex Calie](https://alexcalia.com/): nice skills icons & project cards
-- [Sharon Yi](https://sharon-yi.com/): nice animation, contact form, project cars changed and are not so nice
-- [LEE WARRICK](https://leewarrick.com/): Amazing animation, though way too much of it and too fast, not enough padding/margin
-- [Matt FArley](https://mattfarley.ca/): interesting project cards
-- [JD MINNICK](https://jdminnick.codes/): interesting design
+2. [Brittany Chiang](https://brittanychiang.com/): Great everything!
+
+**Projects**: 1. a VS Code theme (`halcyon-color-theme.json`), 2. Spotify Profile (React app), 3. Build a Spotify Connected App (her course).
+
+3. [Kay Stocks](https://www.kaystocks.com/): Great design
+
+**Projects**: 1. film recommendation generator (no code, team build), 2. dx systems solutions (site rebuild with a UX Designer), 3. toned magazine (Squarespace build or rebuild, though she mentions it's a custom WordPress theme), 4. brandon ferguson media branding (WordPress site build).
+
+4. [DAVID SUMNER](https://davidsumner.co.uk/): All looks really good
+
+**Projects**: 1. Natural Tours, custom WordPress Theme, single page (PHP, Bootstrap, SCSS, MySQL), 2-6. another WordPress theme though the GitHub link is a 404, then some smaller CSS or JS components.
+
+5. [DOUGLAS LERNER](https://douglasdev.github.io/): Great design and animation
+
+**Projects**: They project cards are nice but they do not all have links, some of the Live Demo links don't work, ...
+
+### Good to Okay
+
+1. [Batuhan Doruk](https://calmeart.github.io/): dark theme, interesting design, very simple and short
+
+**Projects**: 1 in progress, a bad game, 2 freeCodeCamp projects, a to-do, and 1 other one. Tech stack includes EJS, Express.js, Mongoose, Babel and React objects.
+
+2. [Jesse Delia](https://jdeliaportfolio.netlify.app/): very simple and short
+
+**Projects**: 1. MINDRIGHT (React, Firebase, no `package.json` file), 2. CodeSnippets, doesn't work (React, Axios), 3. SaveForLater (React, Express), 4. ABDN (React, Axios) <a href="mailto:jddelia123@gmail.com"><i class="far fa-envelope fa-3x"></i></a>
+
+3. [Knight Designs](https://www.knightdesigns.net/): nice design, 6 projects, Google maps error
+
+**Projects**: NO CODE??? 6 cards, only 2 have projects link, 1 is confusing, 1 is 404
+
+4. [Man Parvesh Singh Randhawa](https://manparvesh.com/): nice overall design
+
+**Projects**: 1. yoda (Python, Docker), 2. Idea Tracker Plus looks good, don't recognize the file typs or languages he uses
+
+### Features I like
+
+1. [Alex Calie](https://alexcalia.com/): nice skills icons & project cards
+
+**Projects**: 1. Stonk Market (React, Chart.js, looks good), 2. Podcast Prioritizer (React, Firebase, bad design), and others...
+
+2. [Sharon Yi](https://sharon-yi.com/): nice animation, contact form, project cards changed and are not so nice anymore
+
+**Projects**: 1. Habit Tracker (React, SASS, Firebase), 2. Into The Void JavaScript game, 3. beeline, looks great (APIs, jQuery, JS, SASS), 4. Versus (React, Firebase, SASS)
+
+3. [LEE WARRICK](https://leewarrick.com/): Amazing animation, though way too much of it and too fast, not enough padding/margin in certain sections, GREAT project sections
+
+**Projects**: 1. Goaler, looks good (React, Firebase), 2. My Meds, looks great (React, Node.js, Express,js, MySQL, Axios), 3. Strings and Things, looks great (React, Gatsby)
+
+4. [Matt Farley](https://mattfarley.ca/): interesting project cards
+
+**Projects**: Looks like website builds, no code
+
+5. [JD MINNICK](https://jdminnick.codes/): interesting design
+
+**Projects**: 1. Portfolio (HTML, CSS, JS) - CSS heavy, little JS, no other projects
 
 ## Articles
 
@@ -82,4 +118,6 @@ Good Features:
 
 ## Skills
 
-- nothing here yet
+- nothing here yet...the FRONT-END_DEV.md file has the skill examples to mention on your portfolio page so check there.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>

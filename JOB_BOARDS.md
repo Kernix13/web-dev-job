@@ -57,6 +57,8 @@ I made some connections but nothing came of it. Then I searched for people in my
 
 > Thank you for your time and I look forward to hearing from you if you have any insights or prospects that would help me in my job search!
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ## FlexJobs
 
 **Link**: [FlexJobs](https://www.flexjobs.com/)
@@ -86,3 +88,5 @@ It's difficult to create a quality search, but the single-click apply is nice.
 **Free or Paid**: Free
 
 **Resumes and Cover letters**: You can upload your resume as with most sites and save any good matches until you write your cover letter. You can use the resume you uploaded or upload a resume specific for the job.
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>

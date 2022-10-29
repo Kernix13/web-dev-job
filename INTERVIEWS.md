@@ -2,6 +2,8 @@
 
 I'm onlt including questions from varios GitHub repositories.
 
+<div id="back-to-top"></div>
+
 ## Table of Contents
 
 1. [GitHub Repo Sample Questions](#gitHub-repo-sample-questions)
@@ -58,6 +60,8 @@ I'm onlt including questions from varios GitHub repositories.
 1. What role do you see yourself in?
 1. Explain the difference between cookies, session storage, and local storage?
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ### HTML Questions
 
 1. What does a doctype do?
@@ -73,6 +77,8 @@ I'm onlt including questions from varios GitHub repositories.
 1. Have you used different HTML templating languages before?
 1. What is the difference between canvas and svg?
 1. What are empty elements in HTML?
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ### CSS Questions
 
@@ -97,7 +103,7 @@ I'm onlt including questions from varios GitHub repositories.
 1. Explain how a browser determines what elements match a CSS selector.
 1. Describe pseudo-elements and discuss what they are used for.
 1. Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
-1. What does \* { box-sizing: border-box; } do? What are its advantages?
+1. What does `{ box-sizing: border-box; }` do? What are its advantages?
 1. What is the CSS display property and can you give a few examples of its use?
 1. What's the difference between inline and inline-block?
 1. What's the difference between the "nth-of-type()" and "nth-child()" selectors?
@@ -112,6 +118,8 @@ I'm onlt including questions from varios GitHub repositories.
 1. Can you give an example of a pseudo class? Can you provide an example use case for a pseudo class?
 1. What is the difference between a block level element and an inline element. Can you provide examples of each type of element?
 1. What is the difference between CSS Grid and Flexbox? When would you use one over the other?
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ### JS Questions
 
@@ -164,6 +172,8 @@ I'm onlt including questions from varios GitHub repositories.
 1. What is a promise? Where and how would you use promise?
 1. Discuss how you might use Object Oriented Programming principles when coding with JavaScript.
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 #### Coding questions
 
 Make this work:
@@ -211,6 +221,8 @@ console.log("foo" && "bar");
   - Describe the kind of culture around accessibility you would create and how you would go about creating it
   - When there is more accessibility work to be done than the team can handle, how do you prioritize?
   - If a client/stakeholder doesn’t want to pay for accessibility what would you do?
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 #### Technical
 
@@ -261,6 +273,8 @@ console.log("foo" && "bar");
 - What are some issues with modifying normal scrolling behavior? For example: infinite scrolling or scrolljacking.
 - Some ARIA widgets are presently best supported on devices with physical keyboard, rather than mobile/touch interfaces. Are you aware of any widgets that would be described this way, and why?
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 #### Design
 
 - Talk about the pros and cons of flat and skeuomorphic design trends in regards to accessibility.
@@ -295,6 +309,8 @@ console.log("foo" && "bar");
 - What steps would you undertake to create a sustainable culture of creating accessible documents?
 - In your previous experiences, was there an opportunity to insert accessibility checks and content authoring best practices into existing workflows?
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ### Testing Questions
 
 1. What are some advantages/disadvantages to testing your code?
@@ -325,6 +341,8 @@ console.log("foo" && "bar");
 1. What is domain pre-fetching and how does it help with performance?
 1. What is a CDN and what is the benefit of using one?
 
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
+
 ### Coding Questions
 
 Go to the page to see them
@@ -349,3 +367,5 @@ Same as above, too many to list...
 [HTML5 Interview Questions](https://github.com/learning-zone/html-interview-questions)
 
 [CSS Interview Questions](https://github.com/learning-zone/css-interview-questions)
+
+<div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>

@@ -4,11 +4,11 @@ Notes on Resumes, Cover Letters, Interviewing, Front-End Development, Job Boards
 
 Markdown Files:
 
-1. Front End Dev [DONE]
-1. Interviewing Notes [DONE]
-1. Job Board Notes - [initial done]
-1. Miscellaneous Notes - [DONE]
-1. Networking Notes - [initial done]
+1. Front End Dev
+1. Interviewing Notes
+1. Job Board Notes
+1. Miscellaneous Notes
+1. Networking Notes
 1. Portfolio Notes - [initial done]
 1. Project Notes - [initial done]
 1. Resume Notes - [initial done]
