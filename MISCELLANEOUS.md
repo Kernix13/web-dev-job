@@ -7,6 +7,7 @@ These are random notes and I'm not sure where they go or what to do with them.
 1. Definitely an article on the essence of this repo, specifically the portfolio and project files and a list of the best examples I found.
 1. How I built my WordPress theme
 1. Most used JavaScript Math methods with Examples
+1. How to setup and configure Parcel as a Bundler
 1. How to Deploy on Netlify
 
 Other blog topics:
@@ -15,7 +16,7 @@ Other blog topics:
 - `HTML`: form stuff, anchor links (for seo), nest radio and checkbox buttons win their label,
 - `CSS`: pseudo classes vs elements, animation properties, background properties, transition properties, blending, bem, bezier curve, border radius 50%, css variables,
 - `Javascript`: HOA, Fetch API and/or Axios, APIs, the various for loops, practical RegEx examples and usage, CSS code formatter for code blocks in your articles, how to use and format js Date object, spread vs rest, what is parsing, event bubbling vs event delagtion,
-- `Development`: use Parcel instead of Webpack, how to use devtools, web hosting DNS records,
+- `Development`: use Parcel instead of Webpack, how to use devtools, web hosting DNS records, using Firebase, MongoDB?
 - Other: how to build a portfolio, front-end or back-end, the best web hosting companies, beginner on-page seo, the best free graphic design tools and applications,
 
 ## Other JS Sources to look at
