@@ -23,6 +23,7 @@ This file is closely related to PORTFOLIO.md.
 - display math results
 - timer/count-down
 - playing audio/video
+- Animation on scrolling | Buttons that open modal/pop-up on click | Adding and removing elements on click
 - `A 'perfect score' website` - 100% for all categories on the Chrome Lighthouse audit report
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
