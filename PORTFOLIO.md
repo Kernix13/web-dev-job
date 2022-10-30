@@ -227,6 +227,6 @@ _Connect with People in the Tech Community_
 
 ## Skills
 
-- nothing here yet...the FRONT-END_DEV.md file has the skill examples to mention on your portfolio page so check there.
+- The FRONT-END_DEV.md file has the skill examples to mention on your portfolio page so check there.
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
