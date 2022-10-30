@@ -72,7 +72,7 @@ These are the best ones IMO
 
 2. [Jesse Delia](https://jdeliaportfolio.netlify.app/): very simple and short
 
-**Projects**: 1. MINDRIGHT (React, Firebase, no `package.json` file), 2. CodeSnippets, doesn't work (React, Axios), 3. SaveForLater (React, Express), 4. ABDN (React, Axios) <a href="mailto:jddelia123@gmail.com"><i class="far fa-envelope fa-3x"></i></a>
+**Projects**: 1. MINDRIGHT (React, Firebase, no `package.json` file), 2. CodeSnippets, doesn't work (React, Axios), 3. SaveForLater (React, Express), 4. ABDN (React, Axios)
 
 3. [Knight Designs](https://www.knightdesigns.net/): nice design, 6 projects, Google maps error
 
