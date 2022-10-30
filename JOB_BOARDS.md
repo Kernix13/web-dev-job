@@ -51,11 +51,29 @@ I found this post:
 
 I made some connections but nothing came of it. Then I searched for people in my area that also went to Drexel University. I have not contacted them yet, but here is the script I plan on using:
 
-> Hello, [name]. I also graduated from Drexel with an Operations Management degree, but I am now trying to change carees and am looking for my first Front-End DEvelopment job. I noticed you are in that field so I wantd to contact you to see if you know of any companies that are open to hiring a self-taught developer. Or at the very least, to have you keep me in mind if you know of any job openings or can connect me with other developers.
+```
+<!-- 182 words 1,004 characters -->
 
-> I built my own WordPress theme with the hope get getting some freelance web design work, but freelancing seems to be difficult. I have also taken a number of free and paid courses online on Web Design and Javascript. I recently completed my portfolio and would love to get any kind of feedback fro you on the design and the projects I have listed: https://kernixwebdesign.com/resume-portfolio.html
+Hello [NAME]
 
-> Thank you for your time and I look forward to hearing from you if you have any insights or prospects that would help me in my job search!
+I also graduated from Drexel with an Operations Management degree, but I am now trying to change careers and am looking for my first Front-End Development job. I noticed you are in that field so I wanted to contact you to see if you know of any companies that are open to hiring a self-taught developer. Or at the very least, to have you keep me in mind if you know of any job openings or can connect me with other developers.
+
+I built my own WordPress theme with the hope get getting some freelance web design work, but freelancing seems to be quite difficult. I have also taken a number of free and paid courses online ranging from Web Design to Javascript to Developer Workflow. I recently completed my portfolio and would love to get any kind of feedback from you on the overall design and the projects: https://kernixwebdesign.com/resume-portfolio.html
+
+Thank you for your time and I look forward to hearing from you if you have any insights or prospects that would help me in my job search!
+```
+
+Just found out there is a 300 character limit when attaching a message after clicking "Connect". Here is my new script (I'll use the above for something different):
+
+```
+<!-- 45 words 266 characters -->
+
+Hello [NAME],
+
+I also went to Drexel (business degree) but I am now looking for a front-end dev job. I noticed you are in that field and wanted to connect with local devs and designers. Hope to hear back from you!
+
+My portfolio: kernixwebdesign.com/resume-portfolio.html
+```
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
