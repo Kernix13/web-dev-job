@@ -59,6 +59,22 @@ The steps:
 
 > Be honest, be genuine, and start now
 
+#### Twitter Hashtags
+
+Twitter web-based hashtags without the hash for each copy/paste (bold are my preferred ones):
+
+- `tech` | `technology` | `startups` | `security` | `searchengineoptimization` | `SEO`
+- `career` | `job` | `hiring` | `work` | `entrylevel` | `entryleveljobs`
+- **`development`** | `web` | **`webdevelopment`** | `webdev` | **`webdeveloper`** | **`frontend`** | **`#FrontEndDeveloper`**
+- `design` | `webdesign` | **`responsivewebdesign`**
+- **`javascript`** | `html` | `html5` | `css3` | `TypeScript` | `scss` | `json` | `jquery`
+- `bootstrap` | **`tailwindcss`** | `materialize`
+- **`wordpress`** | `wordpresstheme` | `wordpressplugin` | `php` | `htaccess` | `apacheserver` | `HTTPS`
+- `ReactJS` | `reactnative` | `angularjs` | `vuejs` | `app`
+- `postcss` | `parceljs` | `NodeJS` | `gitrepository` | **`github`** | `npm` | `figma` | `API` | `postman` | `webpack` | `devtools`
+
+There is most likely a hashtag for any language, library, frameworm, or NPM package that you haveexperience with, so just do a search for any you do not see above.
+
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 #### Short Term Networking with Cold Email
