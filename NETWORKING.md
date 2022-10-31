@@ -73,7 +73,11 @@ Twitter web-based hashtags without the hash for easy copy/paste (bold are my pre
 - `ReactJS` | `reactnative` | `angularjs` | `vuejs` | `app`
 - `postcss` | `parceljs` | `NodeJS` | `gitrepository` | **`github`** | `npm` | `figma` | `API` | `postman` | `webpack` | `devtools`
 
-There is most likely a hashtag for any language, library, frameworm, or NPM package that you haveexperience with, so just do a search for any you do not see above.
+There is most likely a hashtag for any language, library, frameworm, or NPM package that you have experience with, so just do a search for any you do not see above.
+
+It's quite difficult searching foe people to follow with some of these hashtags, especially finding people who are currently active AND whose only activity is not retweets.
+
+<!-- finished "web" line and "javascript" on the line below -->
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
