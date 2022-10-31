@@ -65,7 +65,7 @@ Twitter web-based hashtags without the hash for easy copy/paste (bold are my pre
 
 - `tech` | `technology` | `startups` | `security` | `searchengineoptimization` | `SEO`
 - `career` | `job` | `hiring` | `work` | **`entrylevel`** | **`entryleveljobs`**
-- **`development`** | `web` | **`webdevelopment`** | `webdev` | **`webdeveloper`** | **`frontend`** | **`#FrontEndDeveloper`**
+- `web` | **`webdevelopment`** | `webdev` | **`webdeveloper`** | **`frontend`** | **`#FrontEndDeveloper`**
 - `design` | `webdesign` | **`responsivewebdesign`**
 - **`javascript`** | `html` | `html5` | `css3` | `TypeScript` | `scss` | `json` | `jquery`
 - `bootstrap` | **`tailwindcss`** | `materialize`
