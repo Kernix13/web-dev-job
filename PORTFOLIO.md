@@ -86,6 +86,10 @@ These are the best ones IMO
 
 **Projects**: 1. yoda (Python, Docker), 2. Idea Tracker Plus looks good, don't recognize the file typs or languages he uses
 
+5. [LUCAS PENNICE](https://www.lucaspennice.ar/): full stack developer, two-tone design, not bad
+
+**Projects**: 2 that use React and SASS, the 3rd is MERN and SASS
+
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
 ### Features I like

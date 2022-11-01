@@ -65,19 +65,19 @@ Twitter web-based hashtags without the hash for easy copy/paste (bold are my pre
 
 - `tech` | `technology` | `startups` | `security` | `searchengineoptimization` | `SEO`
 - `career` | `job` | `hiring` | `work` | **`entrylevel`** | **`entryleveljobs`**
-- `web` | **`webdevelopment`** | `webdev` | **`webdeveloper`** | **`frontend`** | **`#FrontEndDeveloper`**
+- `web` | **`webdevelopment`** | `webdev` | **`webdeveloper`** | **`frontend`** | **`FrontEndDeveloper`**
 - `design` | `webdesign` | **`responsivewebdesign`**
 - **`javascript`** | `html` | `html5` | `css3` | `TypeScript` | `scss` | `json` | `jquery`
 - `bootstrap` | **`tailwindcss`** | `materialize`
 - **`wordpress`** | `wordpresstheme` | `wordpressplugin` | `php` | `htaccess` | `apacheserver` | `HTTPS`
 - `ReactJS` | `reactnative` | `angularjs` | `vuejs` | `app`
-- `postcss` | `parceljs` | `NodeJS` | `gitrepository` | **`github`** | `npm` | `figma` | `API` | `postman` | `webpack` | `devtools`
+- `postcss` | `parceljs` | `NodeJS` | `gitrepository` | **`github`** | `npm` | `figma` | `API` | `postman` | `webpack` | `devtools` | `100DaysOfCode`
 
 There is most likely a hashtag for any language, library, frameworm, or NPM package that you have experience with, so just do a search for any you do not see above.
 
 It's quite difficult searching foe people to follow with some of these hashtags, especially finding people who are currently active AND whose only activity is not retweets.
 
-<!-- finished "web" line and "javascript" on the line below -->
+<!-- finished "web" line and "javascript" on the line below that-->
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 

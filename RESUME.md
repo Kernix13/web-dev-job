@@ -83,9 +83,10 @@ Items to add to your resume web tech stack (my variations):
 
 ### Examples
 
-- https://docs.google.com/document/d/e/2PACX-1vRu_S7LLF2c33QBm_Aw21__6pLKNl9GLv95IwgdpNcO2zIdTT6mGAzxz3QESO1w3cagji3VDmqRet7y/pub
-- https://kswd-portfolio.s3-us-west-1.amazonaws.com/resume/Kevin%20Smith%20-%20Resume.pdf
-- https://kevinsmithwebdev.com/
+- [My Web Resume](https://kernixwebdesign.com/wp-content/uploads/2022/11/Web-Design6_2-Web-version.pdf)
+- [Brittany Chiang](https://brittanychiang.com/resume.pdf) and [her website](brittanychiang.com)
+- [LUCAS PENNICE](https://docs.google.com/document/d/e/2PACX-1vRu_S7LLF2c33QBm_Aw21__6pLKNl9GLv95IwgdpNcO2zIdTT6mGAzxz3QESO1w3cagji3VDmqRet7y/pub) and [his portfolio page](https://www.lucaspennice.ar/)
+- [Kevin Smith](https://kswd-portfolio.s3-us-west-1.amazonaws.com/resume/Kevin%20Smith%20-%20Resume.pdf) and [his website](https://kevinsmithwebdev.com/)
 
 ## Cover Letter Notes
 
