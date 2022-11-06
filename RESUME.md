@@ -35,7 +35,7 @@ Some of these bullet points are good, some suck or are dated!
 - “Does my resume clearly state that I can do this?”
 - “How quickly can I point to this skill from the description in my resume?” Test yourself.
 - “Am I using the same language found in the job description?”
-- Mirroring the language, keywords, and buzzwords found on the job description is the easiest way to prove you’re a better match. Start with the job title
+- Mirroring the language, keywords, and buzzwords found on the job description is the easiest way to prove you're a better match. Start with the job title
 - Pay special attention to the skills mentioned first or _multiple times_
 - Start each new job entry in your work experience section with skills and qualifications that are found in the job description
 - A generic resume is about you while a tailored resume makes it about them
@@ -84,27 +84,27 @@ Items to add to your resume web tech stack (my variations):
 ### Examples
 
 - [My Web Resume](https://kernixwebdesign.com/wp-content/uploads/2022/11/Web-Design6_2-Web-version.pdf)
-- [Brittany Chiang](https://brittanychiang.com/resume.pdf) and [her website](brittanychiang.com)
-- [LUCAS PENNICE](https://docs.google.com/document/d/e/2PACX-1vRu_S7LLF2c33QBm_Aw21__6pLKNl9GLv95IwgdpNcO2zIdTT6mGAzxz3QESO1w3cagji3VDmqRet7y/pub) and [his portfolio page](https://www.lucaspennice.ar/)
-- [Kevin Smith](https://kswd-portfolio.s3-us-west-1.amazonaws.com/resume/Kevin%20Smith%20-%20Resume.pdf) and [his website](https://kevinsmithwebdev.com/)
+- [Brittany Chiang's Resume](https://brittanychiang.com/resume.pdf) and [her website](brittanychiang.com)
+- [LUCAS PENNICE's Resume](https://docs.google.com/document/d/e/2PACX-1vRu_S7LLF2c33QBm_Aw21__6pLKNl9GLv95IwgdpNcO2zIdTT6mGAzxz3QESO1w3cagji3VDmqRet7y/pub) and [his portfolio page](https://www.lucaspennice.ar/)
+- [Kevin Smith's Resume](https://kswd-portfolio.s3-us-west-1.amazonaws.com/resume/Kevin%20Smith%20-%20Resume.pdf) and [his website](https://kevinsmithwebdev.com/)
 
 ## Cover Letter Notes
 
 Cover letter format: 2/3 of the page max, 3-4 paragraphs,
 
-The 4 Sentence Cover Letter That Gets You The Job Interview – cl’s, emails, applicant tracking systems
+The 4 Sentence Cover Letter That Gets You The Job Interview – cl's, emails, applicant tracking systems
 
 ### General
 
 **Purpose**: to let the company know what you ae applying for, but you still need to effectively introduce yourself – do these 3 things, be brief because they get many emails, they do not have the time for a lengthy intro or CL –
 
-1. dear...i’m writing to inquire about the opening for - one sentence, done –
+1. Dear...I'm writing to inquire about the opening for - one sentence, done –
 2. 2nd P, I offer blah-blah-blah which makes me a strong candidate for this position. Sentence 2 P 2 – the top portion of the attached resume highlights my career profile and 3 significant accomplishments that are also in alignment with this position (intrigue, telling where to find the info) –
-3. 3rd P – "I'd welcome the opportunity to speak with you if you feel I’d be a strong candidate for this or any other position in your organization" - be brief, tell them why, create intrigue
+3. 3rd P – "I'd welcome the opportunity to speak with you if you feel I'd be a strong candidate for this or any other position in your organization" - be brief, tell them why, create intrigue
 
 > That last one is great!
 
-More points: mention a connection, if there is one, right away, grab them right away – 3 P’s with 2-3 sentences max, 1st intro, 2nd skills that are a match, 3rd | if the job desc doesn’t mention sending a CL, send a CL |
+More points: mention a connection, if there is one, right away, grab them right away – 3 P's with 2-3 sentences max, 1st intro, 2nd skills that are a match, 3rd | if the job desc doesn't mention sending a CL, send a CL |
 
 <div align="right">&#8673; <a href="#back-to-top" title="Table of Contents">Back to Top</a></div>
 
@@ -114,15 +114,15 @@ Have KEYWORDS in resume objective as well as CL
 
 - name
 - city, state | ph # | email
-- receiver’s name, title
+- receiver's name, title
 - company name
 - address or dear hiring mgr
 - P1: intro who you are, the position interested in, where\how you found out, title - and hjob #, brief summary of qualifications
-- P2: discuss qulifications & achievments, examples of measureable achievements, don’t repeat resume,
+- P2: discuss qulifications & achievments, examples of measureable achievements, don't repeat resume,
 - P3: closing that you are a good fit, include a CTA – a call or interview,
 - Thanks for your consideraton - EXAMPLE:
 
-> `P1` I’m writing to express my interest in the XYZ position you have open on your company website … I am [experience] and am confident that my experience and skill set would be a great match for the position
+> `P1` I'm writing to express my interest in the XYZ position you have open on your company website … I am [experience] and am confident that my experience and skill set would be a great match for the position
 
 > `P2` I have a strong knowledge of xyz backed by experience I have gained in the last 12 years. In my previous position, ...blah, blah, blah examples
 
@@ -150,7 +150,7 @@ Here are a few of the main areas where I feel my experience aligns with your nee
     • Used [CSS] design methods to ensure my website and projects are responsive across all devices and screen sizes.
     • Current projects involve using [React], [Bootstrap], [Tailwind], [jQuery], and various [Web APIs] to add to my online portfolio.
 
-I’d welcome the opportunity to speak with you if you feel I’d be a strong candidate for this or any other position in your organization. Thank you for your time and consideration.
+I'd welcome the opportunity to speak with you if you feel I'd be a strong candidate for this or any other position in your organization. Thank you for your time and consideration.
 
 Sincerely,
 

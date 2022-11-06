@@ -9,6 +9,7 @@ I like organic networking on Twitter, but the JOB_BOARDS.md file or the networki
 1. [Link 1](#link-1)
    1. [How to Network Effectively](#how-to-network-effectively)
    1. [Long Term Networking with Twitter](#long-term-networking-with-twitter)
+   1. [Twitter Hashtags](#twitter-hashtags)
    1. [Short Term Networking with Cold Email](#short-term-networking-with-cold-email)
 1. [Link 2](#link-2)
    1. [Send an email](#send-an-email)
