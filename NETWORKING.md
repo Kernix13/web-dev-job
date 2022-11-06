@@ -65,7 +65,7 @@ The steps:
 Twitter web-based hashtags without the hash for easy copy/paste (bold are my preferred ones):
 
 - `tech` | `technology` | `startups` | `security` | `searchengineoptimization` | `SEO`
-- `career` | `job` | `hiring` | `work` | **`entrylevel`** | **`entryleveljobs`**
+- `career` | `job` | `hiring` |`hired` | `work` | **`entrylevel`** | **`entryleveljobs`**
 - `web` | **`webdevelopment`** | `webdev` | **`webdeveloper`** | **`frontend`** | **`FrontEndDeveloper`**
 - `design` | `webdesign` | **`responsivewebdesign`**
 - **`javascript`** | `html` | `html5` | `css3` | `TypeScript` | `scss` | `json` | `jquery`
